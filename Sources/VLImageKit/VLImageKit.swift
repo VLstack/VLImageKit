@@ -6,8 +6,7 @@ import UIKit
 import AppKit
 #endif
 
-public
-extension Image
+public extension Image
 {
  /// Initializes a SwiftUI `Image` from data.
  init(_ data: Data,
